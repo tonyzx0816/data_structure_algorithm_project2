@@ -1,4 +1,4 @@
-Custom Capped List Data Structures
+## Custom Capped List Data Structures Project
 
 Designed and implemented Java-based capped list data structures
 using both array and linked list approaches, optimizing key operations
